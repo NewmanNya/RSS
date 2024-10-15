@@ -1,2 +1,376 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>My News RSS Feed</title><link>https://github.com/yourusername/yourrepo</link><description>This is a custom RSS feed.</description><pubDate>Tue, 15 Oct 2024 16:20:40 GMT</pubDate><item><title>News 1</title><link>https://example.com/news1</link><description>Description 1</description><pubDate>Tue, 15 Oct 2024 10:00:00 GMT</pubDate></item><item><title>News 2</title><link>https://example.com/news2</link><description>Description 2</description><pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Bitcoinist.com</title>
+	<atom:link href="https://bitcoinist.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bitcoinist.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Oct 2024 19:25:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://bitcoinist.com/wp-content/uploads/2021/04/cropped-cropped-cropped-Icon.png?fit=32%2C32</url>
+	<title>Bitcoinist.com</title>
+	<link>https://bitcoinist.com</link>
+	<width>32</width>
+	<height>32</height>
+</image>
+<site xmlns="com-wordpress:feed-additions:1">225283986</site>	<item>
+		<title>Bitcoin Bulls Strike: $130M Crypto Shorts Liquidated As BTC Breaks $66,000</title>
+		<link>https://bitcoinist.com/bitcoin-bulls-crypto-shorts-liquidated-btc-66000/</link>
+
+		<dc:creator><![CDATA[Keshav Verma]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 06:30:15 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Bitcoin bulls]]></category>
+		<category><![CDATA[Bitcoin liquidation]]></category>
+		<category><![CDATA[Bitcoin shorts]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto Liquidation]]></category>
+		<category><![CDATA[Crypto Shorts]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Data shows the cryptocurrency derivatives sector has suffered a lot of liquidations as Bitcoin has rallied to the $66,000 mark. Bitcoin Has Now Recovered To The $66,000 Level The past day has been a great time for Bitcoin investors as the price has shown a sharp recovery surge, which has taken it to the $66,000 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Data shows the cryptocurrency derivatives sector has suffered a lot of liquidations as Bitcoin has rallied to the $66,000 mark.</p>
+<h2>Bitcoin Has Now Recovered To The $66,000 Level</h2>
+<p>The past day has been a great time for Bitcoin investors as the price has shown a sharp <a href="https://bitcoinist.com/bitcoin-price-hits-64000-events/" target="_blank" rel="noopener ">recovery surge</a>, which has taken it to the $66,000 level for the first time since the end of last month.</p>
+
+<p>The below chart shows what the asset&#8217;s recent price action has been like.</p>
+<img fetchpriority="high" decoding="async" class="size-medium" src="https://www.tradingview.com/x/YL7PGOXf/" alt="Bitcoin Price Chart" width="1486" height="852" />
+<p>The graph shows that this 6% surge in the last 24 hours means that Bitcoin is now not too far from surpassing the high from September. Breaking that top would take the asset to the highest level since July.</p>
+<p>Like it&#8217;s usually the case, BTC hasn&#8217;t been alone in this rally, as the rest of the sector has followed in its lead. Coins like Ethereum (ETH) and Solana (SOL) have even outperformed the original digital asset, with 8% and 7% jumps, respectively.</p>
+<p>With all the volatility in the market during the past day, it&#8217;s not surprising that the derivatives side has seen a shakeup.</p>
+<h2>Crypto Derivatives Has Seen $233 Million In Liquidations Today</h2>
+<p>According to data from<a href="https://www.coinglass.com/LiquidationData" target="_blank" rel="noopener nofollow"> CoinGlass</a>, a large amount of liquidations have occurred in the cryptocurrency derivatives market over the last 24 hours. A contract is said to be &#8216;<a href="https://bitcoinist.com/crypto-market-cap-shrinks-by-6-with-liquidations-surpassing-550-million/" target="_blank" rel="noopener ">liquidated</a>&#8216; when it&#8217;s forcefully closed by its platform after it has exceeded losses of a certain degree.</p>
+<p>Here is a table that shows the relevant numbers related to the latest mass liquidation event:</p>
+<p><img data-recalc-dims="1" decoding="async" class="alignnone size-medium wp-image-330777 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/10/table.png?w=558&#038;resize=558%2C304" alt="Bitcoin &amp; Crypto Liquidations" width="558" height="304" /></p>
+
+<p>As is visible above, around $233 million in derivatives contracts related to all cryptocurrencies have found liquidation during this window. This flush was almost entirely short contracts, as these investors betting on a bearish outcome took a $198 million beating, equivalent to almost 85% of the total liquidations.</p>
+<p>In terms of the individual symbols, Bitcoin has predictably come out on top, with almost double the liquidations of second-placed Ethereum. Though, while BTC&#8217;s share is the highest in the sector, it represents just 39% of the total, implying that altcoins have enjoyed a faire share of their own speculation recently.</p>
+<p><img data-recalc-dims="1" decoding="async" class="alignnone size-medium wp-image-330779 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/10/data.png?w=640&#038;resize=640%2C292" alt="Bitcoin Liquidations" width="640" height="292" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/data.png?w=787 787w, https://bitcoinist.com/wp-content/uploads/2024/10/data.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/data.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/data.png?w=750 750w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+
+<p>Out of the assets other than BTC and ETH, Solana has seen the highest amount of liquidations at around $11 million. SUI and NEIRO have rounded off the top 5 with $7 million and $5 million in contracts, respectively.</p>
+<p>A mass liquidation event like today&#8217;s is popularly called a <a href="https://bitcoinist.com/400-crypto-longs-squeezed-bitcoin-crashes-57000/" target="_blank" rel="noopener ">squeeze</a> and since this latest event involved a dominance of shorts, it would be known as a short squeeze.</p>
+
+<p>During a squeeze, liquidations feed back into the price move that caused them, thus elongating it and unleashing a flurry of further liquidations. This is why these events tend to be so volatile.</p>
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/btc_e379b7.webp?fit=640%2C366" width="640" height="366" /><post-id xmlns="com-wordpress:feed-additions:1">330624</post-id>	</item>
+		<item>
+		<title>Kamala Harris Vows To Support Crypto In New Proposal To Win Black Male Voters</title>
+		<link>https://bitcoinist.com/kamala-harris-vows-to-support-crypto-in-new-proposal-to-win-black-male-voters/</link>
+
+		<dc:creator><![CDATA[Rubmar Garcia]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 05:00:25 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[crypto donation]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[Donald Trump crypto]]></category>
+		<category><![CDATA[Kamala Harris]]></category>
+		<category><![CDATA[Polymarket]]></category>
+		<category><![CDATA[ripple]]></category>
+		<category><![CDATA[Ripple co-founder]]></category>
+		<category><![CDATA[US Election 2024]]></category>
+		<category><![CDATA[US Election Polymarket]]></category>
+		<category><![CDATA[Vice President Kamala Harris]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[US Vice President Kamala Harris has pledged to support crypto regulation and digital assets in her new economic proposal, as various new media outlets reported on Monday. The bid comes after pro-crypto Republican candidate Donald Trump took the lead in the polls against the democratic nominee. Related Reading: Bitcoin Open Interest Decline Mirrors 2021 Drop, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;">US Vice President Kamala Harris has pledged to support crypto regulation and digital assets in her new economic proposal, as various new media outlets reported on Monday. The bid comes after pro-crypto Republican candidate Donald Trump took the lead in the polls against the democratic nominee.</p>
+
+<h2 style="font-weight: 400;">Harris Pledges To Legalize Weed, Support Crypto</h2>
+<p style="font-weight: 400;">As the November elections get closer, the US Vice President and Democratic nominee Kamala Harris unveiled a new proposal tailored for black men, offering an outlet for economic security, in an alleged attempt to make the group a “more central part of her campaign.”</p>
+<p style="font-weight: 400;">As <a href="https://www.bloomberg.com/news/articles/2024-10-14/kamala-harris-highlights-capital-access-crypto-in-bid-to-woo-black-men" target="_blank" rel="noopener nofollow">reported</a> by Bloomberg, the new policy proposals include the promise to work with the US Congress to legalize recreational marihuana and help ensure that black men can create businesses and work in the growing cannabis industry.</p>
+<p style="font-weight: 400;">Moreover, Harris vowed to give 1 million loans, fully forgivable of up to $20,000, to black entrepreneurs who struggled to access financing when starting a business. The Democratic nominee also proposed to increase apprenticeship and job opportunities if elected president.</p>
+<p style="font-weight: 400;">Among her <a href="https://bitcoinist.com/you-cant-be-against-bitcoin-us-congressman-encouraged-by-vp-harris-crypto-statements/" target="_blank" rel="noopener ">proposals</a>, the US Vice President promised to boost black Americans’ access to the crypto industry. Per the report, Harris pledged to “support a regulatory framework for cryptocurrencies,” adding that her government would give “more investment certainty to the 20% of Black Americans who own — or have owned — digital assets.”</p>
+<p style="font-weight: 400;">The new economic proposal comes days after some of Harris’ allies, including former US president Barack Obama, expressed their concerns about Trump’s efforts to win over black voters.</p>
+<p style="font-weight: 400;">According to the report, Harris’ popularity among the group is better than President Biden’s before dropping out of the race. However, the margins remain tight, which could affect the Democratic nominee’s chances of winning.</p>
+<h2 style="font-weight: 400;">Trump Takes The Lead Again</h2>
+<p style="font-weight: 400;">Pro-crypto Republican candidate Donald Trump has recently taken the lead against Harris, according to several polls and prediction markets. The US Vice President saw her <a href="https://bitcoinist.com/no-crypto-mention-kamala-harris-winning-odds-increase-4-after-presidential-debate/" target="_blank" rel="noopener ">winning odds</a> increase by around 4% after the Presidential Debate between the two candidates on September 11, despite no mention of digital assets.</p>
+<p style="font-weight: 400;"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-large wp-image-330689 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=980&#038;resize=980%2C431" alt="crypto" width="980" height="431" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=1047 1047w, https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/10/Captura-de-Pantalla-2024-10-14-a-las-8.58.50-a.-m.png?w=750 750w" sizes="(max-width: 980px) 100vw, 980px" /></p>
+
+<p style="font-weight: 400;">Harris continued to lead Polymarket’s prediction market for nearly a month as her campaign started to acknowledge the crypto industry. Several industry figures have publicly expressed their support for the Democratic nominee, noting that her victory could “not be as bearish” for the sector as some investors think.</p>
+<p style="font-weight: 400;">Recently, Ripple’s co-founder reaffirmed his support for the US Vice President with a significant donation. As <a href="https://bitcoinist.com/1m-xrp-donation-fuels-kamala-harris-campaign/" target="_blank" rel="noopener ">reported</a> by Bitcoinist, Chris Larsen sent a million dollars worth of XRP to the Political Action Committee (PAC) Future Forward USA, which is dedicated to supporting Harris’ candidacy.</p>
+
+<p style="font-weight: 400;">Larsen’s contribution became the first documented crypto donation made to the Democratic nominee’s campaign, despite starting to accept them over a month ago. Nonetheless, Trump’s chances of winning have significantly increased in the past week, surging around 10% since October 4.</p>
+<p style="font-weight: 400;">As of this writing, the Republican candidate’s winning odds are 53.8%, while Harris’ odds are 45.5%.</p>
+<p><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-large wp-image-330688 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=980&#038;resize=980%2C524" alt="crypto, BTC, BTCUSDT, bitcoin" width="980" height="524" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=1102 1102w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_08-06-13.png?w=750 750w" sizes="(max-width: 980px) 100vw, 980px" /></p>
+
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/09/clay-banks-BY-R0UNRE7w-unsplash-1.jpg?fit=525%2C420" width="525" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">330690</post-id>	</item>
+		<item>
+		<title>Will Solana Meme Coins Overtake Cardano In Market Cap?</title>
+		<link>https://bitcoinist.com/solana-meme-coins-overtake-cardano-in-market-cap/</link>
+
+		<dc:creator><![CDATA[Dalmas Ngetich]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 02:00:38 +0000</pubDate>
+				<category><![CDATA[Solana]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[ADAUSDT]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[meme coins]]></category>
+		<category><![CDATA[solana]]></category>
+		<category><![CDATA[Solana price]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Solana meme coins are rising in dominance, challenging those minted on Ethereum and even the first of them all, Dogecoin. While Dogecoin is the most valuable, it increasingly faces stiff competition from Pepe and Shiba Inu. However, developers have been minting thousands of meme coins from the scalable chain over the past year, especially after [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Solana meme coins are rising in dominance, challenging those minted on Ethereum and even the first of them all, Dogecoin. While Dogecoin is the most valuable, it increasingly faces stiff competition from Pepe and <a href="https://bitcoinist.com/the-dog-days-are-over-dogecoin-and-shiba-inu-holders-are-flocking-to-a-new-crypto-titan/" target="_blank" rel="noopener ">Shiba Inu</a>. </p>
+<p>However, developers have been minting thousands of meme coins from the scalable chain over the past year, especially after Solana recovered from around $20 in Q4 2023.</p>
+<h2>Solana Meme Coins Rising, Market Cap Exceeds $11 Billion</h2>
+<p>According to Coingecko <a href="https://www.coingecko.com/en/categories/solana-meme-coins" target="_blank" rel="noopener nofollow">data</a>, the total market cap of all meme coins on Solana is around $11 billion as of mid-October 2024. This valuation is up 5% in the past day alone.</p>
+
+<p>DogWifHat (WIF) is the most valuable in the Solana ecosystem, with a market cap of over $2.8 billion. To put in the numbers, it is up roughly 8% in the past week of trading and up 3% in 24 hours. </p>
+<p>Other notable meme coins that dominate Solana include Bonk and Popcat. These tokens are among the top performers in 2024, and their market caps are above $1 billion.</p>
+<img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-330608" src="https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?resize=1024%2C551" alt="Top Solana meme coins | Source: Coingecko" width="1024" height="551" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=1534 1534w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151034.584.png?w=1140 1140w" sizes="(max-width: 1000px) 100vw, 1000px" />
+<p>They are among the only eight meme coins with market cap exceeding $1 billion. Some include Brett, the meme coin on Base, Pepe, and Floki. </p>
+<p>Interestingly, Neiro on Ethereum is first expanding, etching its position on the top 10, flipping BOME. NEIRO has a market cap of over $839 million at press time.</p>
+<h2>Cardano Unlocks More ADA, What&#8217;s Next?</h2>
+<p>The rapid expansion of meme coins on Solana means they are cumulatively closing the gap with Cardano. At press time, ADA is changing hands at around $0.35 and down the market cap ranking to eleventh. According to <a href="https://coinmarketcap.com/" target="_blank" rel="noopener nofollow">CoinMarketCap</a>, ADA has a market cap of $12.4 billion and remains under pressure.</p>
+<img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-330619" src="https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?resize=1021%2C435" alt="Cardano unlock schedule | Source: Token Unlocks" width="1021" height="435" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?w=1021 1021w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot-2024-10-14T151854.690.png?w=750 750w" sizes="(max-width: 1000px) 100vw, 1000px" />
+<p>On October 14, Cardano will unlock 18.53 million ADA. According to <a href="https://token.unlocks.app/cardano" target="_blank" rel="noopener nofollow">Token Unlocks</a>, the platform has released over 85% of all ADA to investors, team members, and other stakeholders. While this is bullish, any token unlocking event is viewed as bearish, considering the expected increase in supply. </p>
+<a href="https://www.tradingview.com/x/3RpLjI7Q/" rel="nofollow noopener" target="_blank"><img loading="lazy" decoding="async" class="size-full" src="https://www.tradingview.com/x/3RpLjI7Q/" alt="Cardano price moving sideways on the daily chart | Source: ADAUSDT on Binance, TradingView" width="1273" height="588" /></a>
+<p>When writing, ADA is down roughly 60% from the March high. As prices consolidate, the coin has support at around $0.30 while resistance is at $0.40. </p>
+
+<p>Any breakout below the local support could see ADA print fresh 2024 lows, heaping more pressure on the coin. This development, in turn, assuming Solana expands, could see its meme coins flip ADA. </p>
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/09/Solana-DeFi.png?fit=640%2C358" width="640" height="358" /><post-id xmlns="com-wordpress:feed-additions:1">330603</post-id>	</item>
+		<item>
+		<title>Starship Test Launch Sparks Nearly 6,000% Surge in SpaceX Copycat Cryptos</title>
+		<link>https://bitcoinist.com/starship-test-launch-sparks-nearly-6000-surge-in-spacex-copycat-cryptos/</link>
+
+		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 00:30:08 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[meme coins]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starship]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[On 14 October, copycat cryptocurrencies named after SpaceX surged after the successful test launch of Elon Musk&#8217;s Starship. The coins that are not affiliated with Musk’s aerospace firm, SpaceX, garnered massive price spikes across the platform from the attention gained during the launch. Related Reading: Ripple CEO Drops Bombshell, Accuses ‘Renegade’ SEC Of Breaking The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On 14 October, copycat cryptocurrencies named after SpaceX surged after the successful test launch of Elon Musk&#8217;s Starship. The coins that are not affiliated with Musk’s aerospace firm, <a href="https://www.space.com/news/live/spacex-starship-missions-updates" target="_blank" rel="noopener nofollow">SpaceX</a>, garnered massive price spikes across the platform from the attention gained during the launch.</p>
+
+<p>The big winner perhaps was SPACEX, a token based on <a href="https://coinmarketcap.com/dexscan/bsc/0xb49e7931a25e5995a80ad375951af0ac0d016d94/" target="_blank" rel="noopener nofollow">PancakeSwap</a> that went up by a whopping 5,824% in 24 hours with its price rising to $0.012192 and leading to its market cap to hit $80,800.</p>
+<p>Another token named after <a href="https://coinmarketcap.com/dexscan/solana/Bt19dk2nh8j6CyAFd7AfLyb69kMRWwxf48ceNhbaBDoi/" target="_blank" rel="noopener nofollow">SpaceX</a>, one that is based on the Solana (SOL) blockchain, also increased in value, going up 216% at its peak at the writing of writing, all while maintaining a market cap of $16,400.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Just inspected the Starship booster, which the arms have now placed back in its launch mount. Looks great!</p>
+<p>A few outer engine nozzles are warped from heating &amp; some other minor issues, but these are easily addressed.</p>
+<p>Starship is designed to achieve reflight of its rocket… <a href="https://t.co/oWZoOOfHmk" rel="nofollow" target="_blank">pic.twitter.com/oWZoOOfHmk</a></p>
+<p>— Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1845633730154545465?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">October 14, 2024</a></p></blockquote>
+<p></p>
+<h2><strong>Similar Tokens Follow Starship&#8217;s Flight Path</strong></h2>
+<p>On the flip side, an NFT gaming token by the name of <a href="https://www.benzinga.com/markets/cryptocurrency/24/10/41306789/elon-musk-led-spacex-executes-successful-chopsticks-catch-of-starship-booster-copycat-cryp" target="_blank" rel="noopener nofollow">StarShip</a> after SpaceX&#8217;s newly launched rocket, soared 0.9% before leveling at $0.0215 with a market cap of $404,251. Another Ethereum (ETH) blockchain-based token themed after the Starship rocket was made but not tracked on major platforms regarding its price moves.</p>
+<p>Aside from injecting life back into cryptocurrencies, the actual <a href="https://apnews.com/article/spacex-starship-rocket-launch-7af865e987bb4a2aad38759e06013626" target="_blank" rel="noopener nofollow">Starship launch</a> by SpaceX has been a technological mile-marker. The 400-foot-tall rocket launched near the Mexican border and curved over the Gulf of Mexico.</p>
+<img loading="lazy" decoding="async" class="size-full" src="https://www.tradingview.com/x/ti51Z0ET/" width="1835" height="883" />
+<p>This flight has proven to be better than previous ones since the rocket was caught upon return by the &#8220;chopsticks&#8221; arms of the launch tower, rather than ending in an inferno like its predecessors.</p>
+<h2><strong>The Benefits And Dangers Of Musk’s Crypto Influence</strong></h2>
+<p>Despite not being directly associated with these tokens, Elon Musk has a definitive grip on the world of cryptocurrency. Already a Dogecoin champion, Musk&#8217;s short social media messages on X (formerly Twitter) have driven quick increases for Bitcoin, Dogecoin, and SHIBA INU in the past.</p>
+<blockquote class="twitter-tweet" data-media-max-width="560">
+<p dir="ltr" lang="en">Mechazilla has caught the Super Heavy booster! <a href="https://t.co/6R5YatSVJX" rel="nofollow" target="_blank">pic.twitter.com/6R5YatSVJX</a></p>
+<p>— SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/1845442658397049011?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">October 13, 2024</a></p></blockquote>
+<p></p>
+
+<p>Meanwhile, Musk said after the Starship flight, that the booster part of the rocket could be ready to launch in as little as an hour. &#8220;The booster returns within 5 minutes, so the remaining time will be for reloading propellant and placing a ship on top,&#8221; he explained.</p>
+<p>While Musk enjoys a high profile in the crypto community, his name has also been used by scammers for malicious purposes. In April, we saw an influx of deepfake videos of Musk appearing on YouTube, promoting bogus SpaceX giveaways, which is coincidental as these events coincided with the solar eclipse that occurred on the same day.</p>
+<p>These scams represent a dangerous aspect of the crypto market in general, further emphasizing the risks when it comes to public figures whose influence garners both real and false interest.</p>
+<p><em>Featured image from KHOU, chart from TradingView</em></p>
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/A_2fa8d0.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">330594</post-id>	</item>
+		<item>
+		<title>Bitcoin Analyst Predicts 7,000% Gains For ETFSwap (ETFS) In October, XRP Price To Rise To $1</title>
+		<link>https://bitcoinist.com/bitcoin-analyst-predicts-7000-gains-for-etfswap-etfs-in-october-xrp-price-to-rise-to-1/</link>
+
+		<dc:creator><![CDATA[Bitcoinist]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 00:00:27 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[According to a well-known Bitcoin (BTC) analyst, the ETFSwap (ETFS) tokens could see gains as high as 7,000% in the month of October, while the XRP price is expected to rise to $1. The Bitcoin (BTC) analyst’s predictions point to exciting times ahead for crypto, but the ETFSwap (ETFS) tokens stand out for their innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>According to a well-known Bitcoin (BTC) analyst, the <a href="https://etfswappresale.com/?utm_source=bitcoinist&amp;utm_medium=emilio&amp;utm_campaign=1014" rel="nofollow noopener" target="_blank">ETFSwap (ETFS) tokens</a> could see gains as high as 7,000% in the month of October, while the XRP price is expected to rise to $1. The Bitcoin (BTC) analyst’s predictions point to exciting times ahead for crypto, but the ETFSwap (ETFS) tokens stand out for their innovative approach that could lead to even bigger things.</p>
+ETFSwap (ETFS) Readies For A 7,000% Price Pump
+<p>The ETFSwap (ETFS) platform is changing the game by combining decentralized finance (DeFi) with traditional financial markets. With its focus on tokenized assets, the ETFSwap (ETFS) platform brings real-world assets like stocks, bonds, commodities, and ETFs to the blockchain and opens up a whole new world for crypto investors, allowing them to trade these assets without needing a broker and with full privacy. </p>
+<p>The platform offers crypto enthusiasts the chance to trade in tokenized Bitcoin (BTC), Ethereum (ETH), and other ETFs, which is likely to drive the value of the ETFS tokens even higher. Such a solid foundation and promising utility are why the Bitcoin (BTC) analyst predicts ETFSwap (ETFS) could hit $11 by 2025.</p>
+<p>The ETFSwap (ETFS) platform removes the need for intermediaries or know-your-client (KYC) processes, making it easier for individuals like the Bitcoin (BTC) analyst to remain anonymous as they invest. The Bitcoin (BTC) analyst predicts the ETFSwap (ETFS) tokens to experience a 7,000% increase due to the DeFi platform&#8217;s successful development. The backend of the platform has been completed and tested on the testnet, and right now, they&#8217;re working hard to improve on everything for a smooth experience when it goes live. </p>
+<p>Crypto Investors are incentivized to stake ETFS tokens in liquidity pools and earn up to 87% in annual percentage yields (APY), and traders on the DeFi platform can access up to 10x margin to trade perpetuals, futures, and commodities and as much as 50x margin when trading ETFs, allowing for potential gains of up to 40,000%. </p>
+<p>Unlike other platforms, the ETFSwap (ETFS) provides an innovative liquidity model and perpetual trading options that minimize risks like rug pulls; this gives investors confidence that their money is safe. Each<a href="https://etfswappresale.com/?utm_source=bitcoinist&amp;utm_medium=emilio&amp;utm_campaign=1014" rel="nofollow noopener" target="_blank"> ETFSwap (ETFS) token</a> is backed by real-world securities, which makes it an excellent option for both individual crypto traders and big institutional investors looking to diversify their portfolios into traditional assets. </p>
+<p>The ETFSwap (ETFS) team has fully undergone <a href="https://github.com/solidproof/projects/tree/main/2024/ETFSwap" rel="nofollow noopener" target="_blank">KYC</a> verification with SolidProof and passed the smart contract <a href="https://www.cyberscope.io/audits/etfswap" rel="nofollow noopener" target="_blank">audit</a> by CyberScope—two important achievements that show it’s a platform you can trust.</p>
+<p>To tap into the anticipated <b>7,000% gains,</b> you’ll need to buy the ETFS tokens now at their low price of<b> $0.03846 </b>in the ongoing presale. </p>
+XRP Price Predicted to Reach $1
+<p>Ripple is positive about concluding its legal case with the SEC. With all the legal uncertainties now clearing up, the <a href="https://www.coingecko.com/en/coins/xrp" rel="nofollow noopener" target="_blank">XRP price</a> is also expected to make a significant move. The XRP price has been showing signs of strength lately, and the Bitcoin (BTC) analyst prediction indicates that the XRP price could rise to $1 soon, thanks to its strong use case in cross-border payments and increasing adoption.</p>
+<p>Although the XRP price moving to $1 is great news for its holders, it’s worth noting that ETFSwap (ETFS) has the potential for far greater returns. XRP price is currently at $0.5318 and is very likely to see steady gains. </p>
+Conclusion: ETFSwap (ETFS) Leads October Price Rise
+<p>While the XRP price could rise to $1 and continue rewarding crypto investors with solid returns, the real star of the bull run is the ETFSwap (ETFS) token. The 7,000% gain predicted by a Bitcoin (BTC) analyst is grounded in the platform&#8217;s strong utility and unique tokenization approach. ETFSwap (ETFS) is set to lead the next big wave in the crypto world. So, while the XRP price is on the rise, the smart money is looking at the ETFSwap (ETFS) tokens that could skyrocket, thanks to their utility, security features, and ability to bridge the gap between DeFi and traditional finance for the biggest gains.</p>
+<p><b>For more information about the ETFS presale,</b></p>
+<p><a href="https://etfswappresale.com/?utm_source=bitcoinist&amp;utm_medium=emilio&amp;utm_campaign=1014" rel="nofollow noopener" target="_blank">Visit ETFSwap Presale</a></p>
+<p><a href="https://linktr.ee/etfswap" rel="nofollow noopener" target="_blank">Join The ETFSwap Community</a></p>
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/Picture11_eb9ecf.jpg?fit=468%2C262" width="468" height="262" /><post-id xmlns="com-wordpress:feed-additions:1">330633</post-id>	</item>
+		<item>
+		<title>Bitcoin &#8216;Illiquid&#8217; Supply Sets New All-Time High With 74% Dominance: What It Means</title>
+		<link>https://bitcoinist.com/bitcoin-illiquid-supply-new-all-time-high-of-74/</link>
+
+		<dc:creator><![CDATA[Keshav Verma]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2024 23:00:49 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[Bitcoin All-Time High]]></category>
+		<category><![CDATA[Bitcoin HODLers]]></category>
+		<category><![CDATA[Bitcoin HODLing]]></category>
+		<category><![CDATA[Bitcoin Illiquid Supply]]></category>
+		<category><![CDATA[Bitcoin Liquid Supply]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[On-chain data shows the Bitcoin Illiquid Supply has shot up to a new all-time high (ATH) recently. Here&#8217;s what this could mean for the asset. Around 74% Of The Circulating Bitcoin Supply Is Currently &#8216;Illiquid&#8217; In a new post on X, analyst James Van Straten discussed the latest trend in Bitcoin&#8217;s Illiquid Supply. The concept [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On-chain data shows the Bitcoin Illiquid Supply has shot up to a new all-time high (ATH) recently. Here&#8217;s what this could mean for the asset.</p>
+<h2>Around 74% Of The Circulating Bitcoin Supply Is Currently &#8216;Illiquid&#8217;</h2>
+<p>In a new<a href="https://x.com/btcjvs/status/1845486362855616813" target="_blank" rel="noopener nofollow"> post</a> on X, analyst James Van Straten discussed the latest trend in Bitcoin&#8217;s Illiquid Supply. The concept of &#8216;liquidity&#8217; for Bitcoin comes from the on-chain analytics firm <a href="https://bitcoinist.com/bitcoin-accumulation-returning-glassnode-report/" target="_blank" rel="noopener ">Glassnode</a>, which defines it for an entity as &#8220;the ratio of cumulative outflows and cumulative inflows over the entity&#8217;s lifespan.&#8221;</p>
+
+<p>An &#8216;entity&#8217; here refers to a collection of addresses that Glassnode has determined to belong to the same investor. Based on the value of this metric, entities can be put into one of three categories: Illiquid, Liquid, and Highly Liquid. Entities with a history of high inflows but low outflows are put inside the Illiquid category. More formally, the indicator&#8217;s value must be less than 0.25 for the majority of an investor&#8217;s holdings to be considered part of the Illiquid Supply.</p>
+<p>On the other end of the spectrum is the Highly Liquid Supply, made up of the balance of the entities who have their liquidity ratio greater than 0.75 (that is, those with outflows that are similar to inflows). The Illiquid Supply essentially represents the frozen part of the BTC supply that is unlikely to move in the near future, as it&#8217;s locked in the wallets of investors who have little history of selling. In contrast, the Highly Liquid Supply corresponds to the tokens that are constantly churning around.</p>
+<p>In between the two is the Liquid Supply, which contains entities participating in a varying degree of <a href="https://bitcoinist.com/shiba-inu-whale-volumes/" target="_blank" rel="noopener ">trading activity</a> (liquidity ratio greater than 0.25 and less than 0.75).</p>
+<p>Note that the methodology that the analytics firm employs means that there are no abrupt changes in categories at the cutoffs; the transition between supply happens in a smooth manner (for example, an entity with a liquidity ratio exactly equal to 0.25 contributes 50% to Illiquid and 50% to Liquid).</p>
+<p>Now, here is the chart shared by Van Straten that shows the trends in the Illiquid and Liquid + Highly Liquid Supplies for Bitcoin:</p>
+<p><img loading="lazy" decoding="async" class="alignnone aligncenter" src="https://pbs.twimg.com/media/GZx69YpXMBMFWJW?format=jpg&amp;name=large" alt="Bitcoin Liquidity" width="1800" height="1013" /></p>
+
+<p>As is visible in the above graph, the Bitcoin Illiquid Supply has been on the rise since the early months of the year, implying the <a href="https://bitcoinist.com/bitcoin-diamond-hands-unbroken-30-7-dormant-5-years/" target="_blank" rel="noopener ">diamond hands</a> have been buying up coins. Following the latest continuation of the increase, the metric has set a new ATH of around 14.7 million, which is equivalent to around 74% of the entire BTC supply in circulation.</p>
+
+<p>&#8220;The fascinating part is the divergence continues to grow between illiquid vs liquid + highly liquid,&#8221; notes the analyst. &#8220;Available trading supply continues to diminish while market sentiment continues to favour HODLing.&#8221;</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading at around $64,900, up more than 3% over the past week.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium aligncenter" src="https://www.tradingview.com/x/oBxJE2xB/" alt="Bitcoin Price Chart" width="1486" height="852" /></p>
+
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/DALL·E-2024-10-14-14.48.46-A-futuribtc.webp?fit=640%2C366" width="640" height="366" /><post-id xmlns="com-wordpress:feed-additions:1">330520</post-id>	</item>
+		<item>
+		<title>Shiba Inu Going Up Against Dogecoin And Tesla As Car Manufacturer Announces Support For SHIB</title>
+		<link>https://bitcoinist.com/shiba-inu-dogecoin-and-tesla/</link>
+
+		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2024 21:30:04 +0000</pubDate>
+				<category><![CDATA[Dogecoin]]></category>
+		<category><![CDATA[Shiba Inu]]></category>
+		<category><![CDATA[Doge]]></category>
+		<category><![CDATA[DOGE news]]></category>
+		<category><![CDATA[doge price]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[Dogecoin news]]></category>
+		<category><![CDATA[dogecoin price]]></category>
+		<category><![CDATA[dogeusd]]></category>
+		<category><![CDATA[dogeusdt]]></category>
+		<category><![CDATA[shib]]></category>
+		<category><![CDATA[SHIB news]]></category>
+		<category><![CDATA[SHIB price]]></category>
+		<category><![CDATA[Shiba Inu news]]></category>
+		<category><![CDATA[Shiba Inu price]]></category>
+		<category><![CDATA[SHIBUSD]]></category>
+		<category><![CDATA[SHIBUSDT]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[The world’s largest meme coin, Dogecoin (DOGE) could see even more heated competition from its primary rival, Shiba Inu (SHIB). According to Shiba Inu’s lead marketer, Lucie, SHIB could potentially surpass Dogecoin, especially with Tesla Chief Executive Officer (CEO), Elon Musk’s support for DOGE. This fierce competition would be driven by the potential integration of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The world’s largest meme coin,<a href="https://bitcoinist.com/dogecoin-price-eyes-fresh/amp/"> Dogecoin (DOGE)</a> could see even more heated competition from its primary<a href="https://bitcoinist.com/dogecoin-shiba-inu-dominant/amp/"> rival, Shiba Inu (SHIB)</a>. According to Shiba Inu’s lead marketer, Lucie, SHIB could potentially surpass Dogecoin, especially with Tesla Chief Executive Officer (CEO),<a href="https://bitcoinist.com/elon-musk-dogecoin-shiba-inu-mascot-cybercab/amp/"> Elon Musk</a>’s support for DOGE. This fierce competition would be driven by the potential integration of SHIB payments by the legendary automobile manufacturer, DeLorean Motors. </p>
+<h2>DeLorean Motors Teases SHIB Support</h2>
+<p>In an X (formerly Twitter)<a href="https://x.com/deloreanlabs/status/1844924906997178803?s=46" rel="nofollow" target="_blank"> post</a> on October 12, DeLorean Motors hinted at the possibility of accepting<a href="https://bitcoinist.com/first-us-public-company-shiba-inu-payments/amp/"> Shiba Inu as a payment option</a> for their upcoming electric cars. In a seemingly playful challenge aimed at Dogecoin and Musk’s Tesla, DeLorean Motors suggested that since<a href="https://bitcoinist.com/tesla-dogecoin-payments-x/amp/"> Tesla supports Doge payments</a>, then maybe they might start accepting SHIB. </p>
+
+<p>This statement creates a potential rivalry with<a href="https://www.newsbtc.com/dogecoin-2/dogecoin-soars-6-5-following-elon-musks-post-is-a-breakout-imminent/amp/" rel="nofollow noopener" target="_blank"> Musk’s Dogecoin support</a>, pitting the two top meme coins against each other as they are driven by the world’s most legendary automobile companies. </p>
+<p>Stirring up excitement in another<a href="https://x.com/lucieshib/status/1845016686639956352?s=46" rel="nofollow" target="_blank">  X post</a>, Lucie suggested that if Shiba Inu can be a part of DeLorean Motors payment plans it could set the meme coin up for a massive growth spurt. She further fueled the competitive fire by highlighting a potential<a href="https://www.newsbtc.com/news/shiba-inu-coin/dogecoin-shiba-inu-meme-coin/amp/" rel="nofollow noopener" target="_blank"> rivalry between Dogecoin and Shiba Inu</a>, with Tesla backing DOGE and DeLorean Motors potentially supporting SHIB. </p>
+<p>Lucie suggested that if DeLorean Motors decides to accept Shiba Inu as a payment for its electric cars, it would become a powerful statement that could push Shiba Inu’s status to new levels, potentially triggering<a href="https://www.newsbtc.com/news/shiba-inu-coin/shiba-inu-shib-0-0008-ath/amp/" rel="nofollow noopener" target="_blank"> widespread adoption</a> and a subsequent price increase. </p>
+<p><a href="https://bitcoinist.com/shiba-inu-market-challenges/amp/">The Shiba Inu marketing lead</a> has revealed that DeLorean Motors is making a comeback with its iconic DeLorean DMC-12 sports vehicle, aiming to turn it into an electric car. This innovative merger of retro and futuristic electric car technology is set to make a significant impact in the tech world.</p>
+<h2>Shiba Inu Vs. Dogecoin And Tesla</h2>
+<p>With Shiba Inu poised to capitalize on a possible integration into DeLorean Motors’ payment system, Lucie has hinted that the meme coin could surpass Dogecoin with Musk’s Tesla support. Earlier in May 2024, Tesla updated its website to begin<a href="https://bitcoinist.com/teslas-official-website-launches-a-dogecoin-page/amp/"> accepting DOGE as payment</a> for certain products available in its merchandise shop. </p>
+
+<p>This unexpected change caused reverberations in the meme coin market and crypto space as a whole, considering Musk’s previous public<a href="https://x.com/elonmusk/status/1113009339743100929?s=46" rel="nofollow" target="_blank"> support</a> of Dogecoin in April 2019. Based on Lucie&#8217;s recent post, if Shiba Inu gains a similar experience with DeLorean Motors, it could be a game changer for the<a href="https://www.newsbtc.com/shiba-inu/shiba-inu-secures-community-support-to-rally-to-1-heres-how/amp/" rel="nofollow noopener" target="_blank"> SHIB community</a> and the meme coin’s market value. </p>
+<p>Moreover, DeLorean’s potential support and influence could expose Shiba Inu to new high-value markets and increase global adoption of the meme coin. While Lucie has admitted that DeLorean’s potential integration of SHIB payments remains speculative and unconfirmed, she remains highly optimistic. </p>
+<img loading="lazy" decoding="async" class="size-medium" src="https://www.tradingview.com/x/Mj2BjNAg/" alt="Shiba Inu price chart from Tradingview.com" width="3286" height="1450" />
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/Shiba-Inu-Dogecoin-.webp?fit=640%2C366" width="640" height="366" /><post-id xmlns="com-wordpress:feed-additions:1">330566</post-id>	</item>
+		<item>
+		<title>Listed German Company Raises $32.8 Million For Bitcoin, Aims To Rival Saylor</title>
+		<link>https://bitcoinist.com/bitcoin-listed-german-company-rival-saylor/</link>
+
+		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2024 20:00:22 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin news]]></category>
+		<category><![CDATA[bitcoin price]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc price]]></category>
+		<category><![CDATA[michael saylor]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<category><![CDATA[Samara AG]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Samara Asset Group, a publicly listed German investment firm, has announced plans to raise up to €30 million ($32.8 million) through a senior secured Nordic bond issuance. The capital raise is aimed at expanding the company&#8217;s investment portfolio and significantly increasing its Bitcoin holdings, positioning it to potentially rival Michael Saylor’s MicroStrategy. $32.8 Million In [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Samara Asset Group, a publicly listed German investment firm, has announced plans to raise up to €30 million ($32.8 million) through a senior secured Nordic bond issuance. The capital raise is aimed at expanding the company&#8217;s investment portfolio and significantly increasing its Bitcoin holdings, positioning it to potentially rival <a href="https://bitcoinist.com/michael-saylor-microstrategy-leading-bitcoin-bank/" target="_blank" rel="noopener ">Michael Saylor’s MicroStrategy</a>.</p>
+<h2>$32.8 Million In Bonds To Buy Bitcoin</h2>
+<p>The company has mandated Pareto Securities as the sole manager to arrange a series of fixed-income investor meetings. The bond issuance, subject to market conditions, is intended to be listed on the unregulated markets of the Oslo and Frankfurt Stock Exchanges. The private placement requires a minimum subscription and allocation amount of €100,000.</p>
+
+<p>The bond will be issued by Samara Asset Group p.l.c., with a newly formed special-purpose vehicle (SPV), Samara Asset Holdings Ltd., pledged in favor of the bond and acting as the guarantor. This structure leverages the Nordic bond framework, which is known for its flexibility and investor-friendly terms.</p>
+<p>&#8220;The proceeds from the bond are intended to expand Samara&#8217;s diversified investment portfolio by acquiring additional limited partnership stakes in alternative investment funds, as well as increase its position in Bitcoin, which Samara uses as its primary treasury reserve asset,&#8221; the company stated in its official <a href="https://www.samara-ag.com/market-insights/samara-asset-group-to-issue-up-to-eu30-million-in-a-nordic-bond-to-acquire-lp-stakes-in-funds-and-grow-its-bitcoin-treasury" target="_blank" rel="noopener nofollow">press release</a>.</p>
+<p>Patrick Lowry, CEO of Samara Asset Group, expressed enthusiasm about the bond issuance: &#8220;We are excited by the prospect of placing this bond and look forward to using the proceeds to acquire more Bitcoin and continue to seed the world’s best emerging managers. The proceeds will allow Samara to further expand and solidify its already robust balance sheet as we diversify into new emerging technologies through new fund investments. With Bitcoin as our <a href="https://bitcoinist.com/asias-microstrategy-metaplanet-increases-bitcoin-holdings-with-6-7m-btc-purchase/" target="_blank" rel="noopener ">primary treasury reserve asset</a>, we also enhance our liquidity position with bond proceeds.&#8221;</p>
+
+<p>Christian Angermayer, a member of Samara&#8217;s Advisory Committee, added: &#8220;Our mission at Samara is to drive humanity forward through innovation by seeding the world’s best managers and builders. With this new dry powder, we are excited to invest in and partner with the builders of tomorrow’s most disruptive technologies and grow our Bitcoin position.&#8221;</p>
+<h2>The German MicroStrategy</h2>
+<p>Taking to X (formerly Twitter), Patrick Lowry shared the company&#8217;s aspirations to invest in innovative technology and increase its Bitcoin treasury through the bond issuance. He reaffirmed Samara&#8217;s commitment to holding Bitcoin long-term and its belief in technology as a key driver for advancing humanity.</p>
+<p>&#8220;At publicly listed Samara AG, we are issuing up to €30 million in bonds to invest in innovative tech through managers and builders, and to increase our Bitcoin treasury! We are forever HODL&#8217;ers and believe technology best drives humanity forward!” he <a href="https://x.com/Patrick_Lowry_/status/1845737954825605245" target="_blank" rel="noopener nofollow">remarked</a>.</p>
+<p>In response to a news report on X, Lowry <a href="https://x.com/Patrick_Lowry_/status/1845736605144805404" target="_blank" rel="noopener nofollow">stated</a>: &#8220;We at Samara AG have HODL’d for years and are now increasing our Bitcoin treasury and investing in disruptive tech through top managers and builders. Not sure it’s possible, but it’d be a dream to stack as much as @saylor.&#8221;</p>
+<p>When asked by a user on X about the <a href="https://bitcoinist.com/microstrategy-bitcoin-700-million-fundraise/" target="_blank" rel="noopener ">challenges of offering bonds</a> for European corporations, Lowry revealed that this is the first ever bond issuance at Samara AG, and the first of this specific type ever in Europe. “I&#8217;ll let you know how it goes in the coming weeks based on feedback,” he remarked.</p>
+<p>At press time, BTC traded at $64,922.</p>
+<img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-330585" src="https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?resize=1024%2C473" alt="Bitcoin price" width="1024" height="473" srcset="https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=3628 3628w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=1140 1140w, https://bitcoinist.com/wp-content/uploads/2024/10/BTCUSDT_2024-10-14_13-36-26.png?w=3000 3000w" sizes="(max-width: 1000px) 100vw, 1000px" />
+
+]]></content:encoded>
+
+
+
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/10/DALL·E-2024-10-14-12.59.37-A-shiny-realistic-Bitcoin-prominently-displayed-in-the-foreground-with-a-blurred-German-flag-in-the-background.-The-Bitcoin-should-be-highly-detailed.webp?fit=640%2C366" width="640" height="366" /><post-id xmlns="com-wordpress:feed-additions:1">330558</post-id>	</item>
+	</channel>
+</rss>
